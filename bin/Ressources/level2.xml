@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<entity>
+		<x>10</x>
+		<y>4</y>
+		<type>obstacle</type>
+	</entity>
+	<entity>
+		<x>12</x>
+		<y>6</y>
+		<type>obstacle</type>
+	</entity>
+	<entity>
+		<x>11</x>
+		<y>10</y>
+		<type>obstacle</type>
+	</entity>
+	<entity>
+		<x>7</x>
+		<y>9</y>
+		<type>obstacle</type>
+	</entity>
+	<entity>
+		<x>5</x>
+		<y>8</y>
+		<type>obstacle</type>
+	</entity>
+	<entity>
+		<x>6</x>
+		<y>5</y>
+		<type>obstacle</type>
+	</entity>
+	<entity>
+		<x>10</x>
+		<y>7</y>
+		<type>player</type>
+	</entity>
+	<entity>
+		<x>8</x>
+		<y>4</y>
+		<type>win</type>
+	</entity>
+
+</level>
